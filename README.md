@@ -1,2 +1,0 @@
-# ataribot
-Bot de whatsapp
